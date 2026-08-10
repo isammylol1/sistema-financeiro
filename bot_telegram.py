@@ -2,7 +2,7 @@ import sqlite3
 import telebot
 from datetime import datetime
 
-CHAVE_API = "8922995862:AAFeVwzm5J88i85X6CngtslQlkbuwdQfS_s"  
+CHAVE_API = "tokendotelegram"  
 bot = telebot.TeleBot(CHAVE_API)
 
 def inicializar_banco():
