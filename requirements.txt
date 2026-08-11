@@ -1,10 +1,2 @@
-sqlite3
 pyTelegramBotAPI
-telebot
-os
-csv
-telebot
-datetime
 matplotlib
-matplotlib.use('Agg')
-matplotlib.pyplot as plt
