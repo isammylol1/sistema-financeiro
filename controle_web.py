@@ -1,6 +1,3 @@
-# Instale antes: pip install flask
-# Execute: python controle_web.py
-# Acesse: http://localhost:5000
 
 from flask import Flask, render_template_string, request, redirect
 import sqlite3
