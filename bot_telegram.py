@@ -8,7 +8,7 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
-CHAVE_API = "meutoken"
+CHAVE_API = "meu:token"
 bot = telebot.TeleBot(CHAVE_API)
 
 # ==========================================
