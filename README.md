@@ -7,4 +7,4 @@ Deepseek: Estilização da página web
 Gemini: correção no código e comentários para facilitação de leitura do usuário.
 
 
-8696672409:AAHcqy3hKewe4ohgV7ZuULH2S0cvPpX0448
+
