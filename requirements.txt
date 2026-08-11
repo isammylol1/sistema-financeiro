@@ -1,0 +1,9 @@
+sqlite3
+telebot
+os
+csv
+telebot
+datetime
+matplotlib
+matplotlib.use('Agg')
+matplotlib.pyplot as plt
